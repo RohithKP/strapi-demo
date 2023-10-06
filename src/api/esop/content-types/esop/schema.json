@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "esops",
+  "info": {
+    "singularName": "esop",
+    "pluralName": "esops",
+    "displayName": "ESOP"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "richtext"
+    }
+  }
+}
