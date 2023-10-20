@@ -4,7 +4,8 @@
   "info": {
     "singularName": "esop",
     "pluralName": "esops",
-    "displayName": "ESOP"
+    "displayName": "ESOP",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
